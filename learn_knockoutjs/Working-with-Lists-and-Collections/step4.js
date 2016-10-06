@@ -43,3 +43,4 @@ function ReservationsViewModel() {
 }
 
 ko.applyBindings(new ReservationsViewModel());
+
