@@ -16,3 +16,4 @@ function WebmailViewModel() {
 };
 
 ko.applyBindings(new WebmailViewModel());
+
